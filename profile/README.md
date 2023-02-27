@@ -5,7 +5,7 @@
   - 분석 결과를 기반으로 하여, 맞춤 가구 정보를 제안해주고 가구의 3D 모델링과 구매 사이트를 제공합니다.
   
   
-## 팀원
+## 👨‍🔧 팀원
 |이름|연락처|
 |---|----|
 |[박세현](https://github.com/orgs/tomorrow-zip/people/qkrtpgus2280)||
@@ -14,3 +14,17 @@
 |[이은비](https://github.com/led156)|led156@naver.com|
 |[이지훈](https://github.com/fallingify)||
 |[정명지](https://github.com/myungji2)||
+
+# 📑 레포지토리
+## AI
+- [3D Reconstruction](https://github.com/tomorrow-zip/3d-reconstruct)
+- Funiture Detection & Segmentation
+- Furniture Style Classification
+- Matching Algorithm
+
+## FrontEnd
+- [Frontend](https://github.com/tomorrow-zip/TomorrowZipFrontend)
+
+## BackEnd
+- [Backend](https://github.com/tomorrow-zip/backend)
+- [Crawling-Ikea](https://github.com/tomorrow-zip/Crawling)
