@@ -12,7 +12,7 @@
 |[박일상](https://github.com/1lsang)|ilsangpark.98@gmail.com|
 |[이수현](https://github.com/orgs/tomorrow-zip/people/study-user)|koem204@naver.com|
 |[이은비](https://github.com/led156)|led156@naver.com|
-|[이지훈](https://github.com/fallingify)||
+|[이지훈](https://github.com/fallingify)|gnswldl000@gmail.com|
 |[정명지](https://github.com/myungji2)||
 
 # 📑 레포지토리
