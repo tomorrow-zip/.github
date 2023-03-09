@@ -28,4 +28,5 @@
 
 ## BackEnd
 - [Backend](https://github.com/tomorrow-zip/backend)
+- [AI-Server](https://github.com/tomorrow-zip/AI-Server)
 - [Crawling-Ikea](https://github.com/tomorrow-zip/Crawling)
