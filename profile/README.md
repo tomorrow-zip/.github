@@ -15,7 +15,7 @@
 |---|----|
 |[박세현](https://github.com/orgs/tomorrow-zip/people/qkrtpgus2280)|qkrtpgus2280@naver.com|
 |[박일상](https://github.com/1lsang)|ilsangpark.98@gmail.com|
-|[이수현](https://github.com/orgs/tomorrow-zip/people/study-user)|koem204@naver.com|
+|[이수현](https://github.com/hye0n2)|koem204@naver.com|
 |[이은비](https://github.com/led156)|led156@naver.com|
 |[이지훈](https://github.com/fallingify)|gnswldl000@gmail.com|
 |[정명지](https://github.com/myungji2)|myungji129@naver.com|
